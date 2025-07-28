@@ -28,6 +28,9 @@
 ---
 
 ## 🌐 Find Me Online
-[![LinkedIn](https://www.linkedin.com/in/tahreem-fatima-250550274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
+
+🔗 [LinkedIn](https://www.linkedin.com/in/tahreem-fatima-250550274)
+
+[GitHub Resume] (https://tahreemf362.github.io/resume-portfolio/)
 
 💬 *Always open to collaboration, freelancing, and new ideas!*
